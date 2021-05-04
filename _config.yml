@@ -3,17 +3,21 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: 'Laiba’Blog'
+subtitle: '来吧~ 坚定脚步前行'
+description: '大鹏一日同风起，扶摇直上九万里'
 keywords:
-author: John Doe
-language: en
+author: 'JingYang'
+language: zh-CN
 timezone: ''
+
+##动漫人物
+
+
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://github.com/JingYang112/JingYang112.github.io.git
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -44,14 +48,14 @@ post_asset_folder: false
 relative_link: false
 future: true
 highlight:
-  enable: true
+  enable: false
   line_number: true
   auto_detect: false
   tab_replace: ''
   wrap: true
   hljs: false
 prismjs:
-  enable: false
+  enable: true
   preprocess: true
   line_number: true
   tab_replace: ''

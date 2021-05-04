@@ -1,5 +1,12 @@
 ---
 title: hexo部署到github上
+categories: 前端
+tags:
+  - 前端
+  - hexo
+summary: hexo部署到github上步骤
+author: yangjing
+password: yangjing112.halo
 ---
 
 1. 在github上创建同名仓库username.github.io，我的username是JingYang112
@@ -8,7 +15,7 @@ title: hexo部署到github上
 
 2. 设置仓库地址
 
-```
+```yaml
 deploy:
   type: git
   repo: git@github.com:JingYang112/JingYang112.github.io.git
@@ -26,19 +33,19 @@ deploy:
 
 
 
-错误总结:
+> ==错误总结==:
 
 * git更新远程库，提示"Everything up-to-date"
 
 将文件添加到仓库
 
-```
+```bash
 git add *
 ```
 
 将文件提交到仓库
 
-```
+```bash
 git commit -m '你对修改的描述'
 ```
 
