@@ -1,10 +1,11 @@
 ---
 title: typora-vue-theme主题介绍
 date: 2018-09-07 09:25:00
-author: 赵奇
+author: jingyang
 top: true
 cover: true
-coverImg: /images/1.jpg
+coverImg: /images/hello-cover.jpg
+img: /images/hello.jpg
 toc: false
 mathjax: false
 summary: 哈哈哈
