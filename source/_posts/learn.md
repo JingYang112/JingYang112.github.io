@@ -6,7 +6,7 @@ tags:
   - hexo
 summary: hexo部署到github上步骤
 author: yangjing
-password: yangjing112.halo
+password: 4a4c2e6e70694c1babe5684a5dccad851853748a86a4f9a4e9182a77ba04bc1b    
 ---
 
 1. 在github上创建同名仓库username.github.io，我的username是JingYang112

@@ -2,8 +2,8 @@
 title: typora-vue-theme主题介绍
 date: 2018-09-07 09:25:00
 author: jingyang
-top: true
-cover: true
+top: false
+cover: false
 coverImg: /images/hello-cover.jpg
 img: /images/hello.jpg
 toc: false
